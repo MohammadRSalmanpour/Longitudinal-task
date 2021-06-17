@@ -1,5 +1,5 @@
 # Longitudinal-task
-Note: To have access to the codes, Please clich on  Codes/download ZIP and download all cosed as zip file and then do unzip code.
+Note: To have access to the codes, Please clich on  Codes/Download ZIP and download all cosed as zip file and then do unzip code.
 
 
 Here we put all algorithms.
